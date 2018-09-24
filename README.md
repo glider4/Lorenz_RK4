@@ -1,2 +1,4 @@
 # Lorenz_RK4
-Estimating the Lorenz Problem using RK4, NumPy, and plotting with Matplotlib
+Estimating the Lorenz Problem using RK4, NumPy, and plotting with Matplotlib </br>
+
+This can be used with any sort of 3-ODE system of equations, but plotting Lorenz is just cool so I set it up for that.  Enjoy...
